@@ -1,9 +1,7 @@
 import React from 'react'
-import checked from '../assets/checked.png'
-import not_checked from '../assets/not-checked.png'
+import checked from '../assets/tick.png'
+import not_checked from '../assets/not_tick.png'
 import delete_icon from '../assets/delete.png'
-
-
 
 const TodoItems = ({ text, id, isComplete, deleteTodo, toggle }) => {
   return (
