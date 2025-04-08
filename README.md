@@ -3,6 +3,8 @@
 This is a simple To-Do List application built with **React** and **Tailwind CSS**.
 This was created as a practice project to explore how to use Tailwind CSS for the first time!
 
+<img src="./assets/screenshot.png" alt="App Screenshot" width="600" />
+
 ## Features
 
 - Add new tasks
@@ -35,6 +37,7 @@ npm install
 npm run dev
 ```
 Open http://localhost:XXXX in your browser to view the app.
+
 
 ## Inspiration
 This project was inspired by the following tutorial:
