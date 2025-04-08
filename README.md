@@ -1,12 +1,43 @@
-# React + Vite
+# 📝 To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple To-Do List application built with **React** and **Tailwind CSS**.
+This was created as a practice project to explore how to use Tailwind CSS for the first time!
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ito-miyuki/todo-app.git
+```
+### 2. Navigate into the project folder
+```bash
+cd todo-app
+```
+### 3. Install dependencies
+```bash
+npm install
+```
+### 4. Start the development server
+```bash
+npm run dev
+```
+Open http://localhost:XXXX in your browser to view the app.
+
+## Inspiration
+This project was inspired by the following tutorial:
+[React + Tailwind CSS To-Do App Tutorial (YouTube)](https://www.youtube.com/watch?v=WE8aYoGK0Ec&ab_channel=GreatStack)
+
+
